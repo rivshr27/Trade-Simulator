@@ -4,7 +4,7 @@
 # Trade Simulator
 
 A real-time trade simulation tool that connects to the **OKX L2 order book feed** and provides live market data analysis.
-
+ ![Trade Dashboard](https://github.com/rivshr27/Library-Management-System-rivshr/blob/main/deploy-images/Screenshot%202024-08-16%20at%206.24.28%E2%80%AFPM.png)
 ---
 
 ## Prerequisites
