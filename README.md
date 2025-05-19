@@ -1,6 +1,6 @@
 Got it! Here’s the **complete detailed README** with each step clearly laid out as sections, ready to be used for your GitHub project:
 
-````markdown
+
 # Trade Simulator
 
 A real-time trade simulation tool that connects to the **OKX L2 order book feed** and provides live market data analysis.
@@ -26,18 +26,18 @@ Before running the application, ensure you have the following:
 
 Open your terminal or command prompt and run:
 
-```bash
+
 mkdir MyTradeSimulator
 cd MyTradeSimulator
-````
+
 
 ### 2. Install Required Python Libraries
 
 Within your project folder, install dependencies using:
 
-```bash
+
 pip install websockets numpy
-```
+
 
 ### 3. Save Code Files
 
