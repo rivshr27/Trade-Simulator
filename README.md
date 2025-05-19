@@ -1,4 +1,4 @@
-Got it! Here’s the **complete detailed README** with each step clearly laid out as sections, ready to be used for your GitHub project:
+
 
 
 # Trade Simulator
