@@ -146,7 +146,7 @@ Press **F12** in your browser to open developer tools, then go to the **Console*
 
 ## Connection Details
 
-* **UI WebSocket Server:** `ws://localhost:8766`
+* **UI WebSocket Server:** `ws://localhost:8000`
 * **OKX L2 Order Book Feed:** `wss://ws.gomarket-cpp.goquant.io/ws/l2-orderbook/okx/BTC-USDT-SWAP`
 
 ---
@@ -173,5 +173,5 @@ Add your preferred license information here (e.g., MIT, GPL).
 
 ---
 
-If you want, I can help generate sample `trade_backend.py` or `trade_frontend.html` templates, or add badges, installation shortcuts, or contribution guidelines. Just let me know!
+
 ```
