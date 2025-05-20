@@ -59,9 +59,9 @@ python trade_backend.py
 You should see log output like:
 
 ```
-INFO:root:Starting Trade Simulator Backend (Port 8766 v2.2)...
-INFO:websockets.server:server listening on ws://localhost:8766
-INFO:root:UI WebSocket server started on ws://localhost:8766
+INFO:root:Starting Trade Simulator Backend (Port 8000 v2.2)...
+INFO:websockets.server:server listening on ws://localhost:8000
+INFO:root:UI WebSocket server started on ws://localhost:8000
 INFO:root:Attempting to connect to OKX L2 feed: wss://ws.gomarket-cpp.goquant.io/ws/l2-orderbook/okx/BTC-USDT-SWAP
 ```
 
