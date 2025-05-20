@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1y-GwETPkwxqB6fGGuKL5VSdgq3sXs44G
 """
 
-# Trade Simulator Backend (Python - Port 8766 v2.2)
+# Trade Simulator Backend (Python - Port 8000 v2.2)
 # This script provides a more complete backend structure based on previous discussions.
 # IMPORTANT:
 # 1. Financial models (slippage, market impact) are SIMPLIFIED PLACEHOLDERS.
